@@ -1,6 +1,4 @@
-﻿using Microsoft.Maui.Controls;
-
-namespace MediaElement9;
+﻿namespace MediaElement9;
 
 public partial class AppShell : Shell
 {

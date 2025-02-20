@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MediaElement9;
+﻿namespace MediaElement9;
 
 public partial class MainPage
 {

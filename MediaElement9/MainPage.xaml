@@ -7,7 +7,6 @@
     <VerticalStackLayout Spacing="25">
 
         <toolkit:MediaElement
-            x:DataType="x:String"
             x:Name="MyMediaElement"
             HeightRequest="200" />
 

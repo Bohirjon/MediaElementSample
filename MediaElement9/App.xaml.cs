@@ -1,7 +1,4 @@
-﻿using Microsoft.Maui;
-using Microsoft.Maui.Controls;
-
-namespace MediaElement9;
+﻿namespace MediaElement9;
 
 public partial class App
 {
